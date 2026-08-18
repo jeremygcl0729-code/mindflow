@@ -36,3 +36,4 @@ pnpm-debug.log*
 # macOS
 .DS_Store
 .vercel
+.env*
